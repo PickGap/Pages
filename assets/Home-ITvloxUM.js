@@ -1,0 +1,1 @@
+import{t as e}from"./Privacy-CWzJzcGQ.js";import{f as t,g as n,p as r,t as i,u as a}from"./index-Br-FQf5Y.js";var o={class:`min-h-screen overflow-x-clip text-black dark:text-white`},s=r({__name:`Home`,setup(r){let{t:s,tm:c,rt:l}=i();return(r,i)=>(n(),a(`main`,o,[t(e)]))}});export{s as default};

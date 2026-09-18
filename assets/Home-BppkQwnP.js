@@ -1,1 +1,0 @@
-import{t as e}from"./Privacy-BHwePG5A.js";import{f as t,g as n,p as r,t as i,u as a}from"./index-CZeSz3B3.js";var o={class:`min-h-screen overflow-x-clip text-black dark:text-white`},s=r({__name:`Home`,setup(r){let{t:s,tm:c,rt:l}=i();return(r,i)=>(n(),a(`main`,o,[t(e)]))}});export{s as default};
